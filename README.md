@@ -1,4 +1,3 @@
-多网盘管理/播放软件
 https://www.36kr.com/p/2210450649265543 参考/都是桌面端的
 
 1. https://github.com/x0b/rcx​ Rclone，多平台，貌似不支持百度，FTP、SFTP、WebDAV、HTTP❌

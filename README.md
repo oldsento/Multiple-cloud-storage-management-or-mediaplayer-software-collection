@@ -1,4 +1,5 @@
 https://www.36kr.com/p/2210450649265543 参考/都是桌面端的
+
 ![六款网盘播放器横评：爆米花  Vid.png](https://github.com/user-attachments/assets/4356ee0b-a6b7-4b82-8b2d-0219d009f689)
 
 1. https://github.com/x0b/rcx​ Rclone，多平台，貌似不支持百度，FTP、SFTP、WebDAV、HTTP❌

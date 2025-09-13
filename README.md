@@ -3,7 +3,21 @@ https://www.36kr.com/p/2210450649265543 参考/都是桌面端的
 6款网盘播放器横评：爆米花 / VidHub / Ghosten / AfuseKt / 当贝 / Medianex 
 ![六款网盘播放器横评：爆米花  Vid.png](https://lain.bgm.tv/pic/photo/l/94/1e/512889_3czX3.jpg)
 https://xiaoyi.vc/comparing-6-top-cloud-media-players.html
-
+|序号| 软件 | 支持网盘/协议                                                                 | 平台  | 收费情况 | 海报墙 | 特色功能                                                                                     | 缺点 |
+|-----------------|-----------------|-----------------|--------------------------------|----------|--------------------|------|----|
+|1| 网易爆米花Filmly      | webdav、SMB、阿里、百度、115、天翼、移动、联通、123、Emby                                | Windows、AppleTV、iOS、安卓/TV | 免费  | 支持  | 全新苹果生态自研内核、HDR全格式支持，支持 ISO 原盘、音频直通模式、appleTV显示器帧率自适配     | 不支持本地字幕，要注册❗百度限制只能播放480p❗ |
+|2| Ghosten Player  | 阿里、夸克、移动、webdav、Emby、Jellyfin、                                               | 安卓/TV（桌面端开发中)| 免费   | 支持  | IPTV、手势操作、内嵌字幕和外置字幕，支持 DLNA 投屏、自定义字幕样式、手机端辅助 TV 端输入、多线程网络加速                         | 不支持二维码登录 |
+|3| VidHub | SMB、WebdaV、阿里、百度、移动、123、NAS、Plex、Emby、jellyfin、飞牛                                               | 安卓/TV、Apple TV、iOS、MacOS         | 内购      | 支持 | 杜比视界+4KHDR解码、同步trakt观影记录、支持在线搜索字幕、ISO 原盘、投屏                                                           | 分辨率/格式限制(1080p/mp4以外限制5次/有广告                                                            |  |
+|4| AfuseKt      | Alist、SMB、Webdav、Emby、Local、jellyfin、阿里、115                                                  | 安卓/TV                 | 免费 | 支持    | 支持倍速、字母、搜索、音轨，支持使用第三方播放器                                                                       |  要注册，安装包较大 |
+|5| 当贝播放器      | 阿里、天翼、百度、FTP、SMB、WebDAV                                                           | 安卓/TV                 | 免费  | 支持  | 支持倍速播放、调节解码方式、字幕设置、声音设置                                           | 只支持横屏 | 
+|6|Medianex | 阿里、115、百度、夸克、WebdaV、FTP | windows、macos、Linux（移动端开发中）| 免费 | 支持 | 播放速度、长按播放速度、支持插件，元数据语言、字幕语言、音频语言、|  |
+|7| 小幸运 | alist、115网盘、天翼网盘、阿里云盘、123网盘 | Windows，安卓 | 免费 |  |扫码登录| 安卓比PC版大一倍 |
+|8| Cotton Music/棉花音乐 | 本地、百度网盘、阿里云盘、WebDAV、GoogleDrive、OneDrive、Dropbox，Plex、Emby、Jelly、Subsonic |安卓、Windows、Mac、Linux |内购|| 扫码同步音源 |只支持音频文件，不支持MIDI，百度不支持短信验证登录，|
+|9| HamHub | Emby，Jellyfin，Plex，阿里，百度，SMB，WebDAV |iOS，安卓，macOS，AppleTV | | || 安装包较大|
+|10| Infuse | NAS、Plex、Emby、Jellyfin，Dropbox、Google Drive、OneDrive、Box、阿里 | iOS/AppleTV/Mac(可能有安卓 | | | |有同名软件但不一样 |
+|11| Everplay | 阿里、微云，百度，115，123，OneDrive，SMB, WebDAV | iOS/AppleTV/Mac | 内购 | |WIFI传输 |安装包较大，只支持音频文件|
+|12|SenPlayer|Emby，Jellfyfin，115，123，百度，阿里，WEBDAV，SMB，FTP，IPTV|iOS/AppleTV/Mac|功能限制/内购|||
+|13|||||||
 1. https://github.com/x0b/rcx​ Rclone，多平台，貌似不支持百度，FTP、SFTP、WebDAV、HTTP❌
 2. https://github.com/OpenListApp/OpenListApp 多平台，继承alist，文件管理，
 3. https://github.com/OpenListTeam/OpenList-Mobile 

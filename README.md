@@ -1,6 +1,8 @@
 https://www.36kr.com/p/2210450649265543 参考/都是桌面端的
 
+6款网盘播放器横评：爆米花 / VidHub / Ghosten / AfuseKt / 当贝 / Medianex 
 ![六款网盘播放器横评：爆米花  Vid.png](https://lain.bgm.tv/pic/photo/l/94/1e/512889_3czX3.jpg)
+https://xiaoyi.vc/comparing-6-top-cloud-media-players.html
 
 1. https://github.com/x0b/rcx​ Rclone，多平台，貌似不支持百度，FTP、SFTP、WebDAV、HTTP❌
 2. https://github.com/OpenListApp/OpenListApp 多平台，继承alist，文件管理，

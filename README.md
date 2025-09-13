@@ -11,8 +11,8 @@ https://xiaoyi.vc/comparing-6-top-cloud-media-players.html
 |4| AfuseKt      | Alist、SMB、Webdav、Emby、Local、jellyfin、阿里、115                                                  | 安卓/TV                 | 免费 | 支持    | 支持倍速、字母、搜索、音轨，支持使用第三方播放器                                                                       |  要注册，安装包较大 |
 |5| 当贝播放器      | 阿里、天翼、百度、FTP、SMB、WebDAV                                                           | 安卓/TV                 | 免费  | 支持  | 支持倍速播放、调节解码方式、字幕设置、声音设置                                           | 只支持横屏 | 
 |6|Medianex | 阿里、115、百度、夸克、WebdaV、FTP | windows、macos、Linux（移动端开发中）| 免费 | 支持 | 播放速度、长按播放速度、支持插件，元数据语言、字幕语言、音频语言、|  |
-|7| 小幸运 | alist、115网盘、天翼网盘、阿里云盘、123网盘 | Windows，安卓 | 免费 |  |扫码登录| 安卓比PC版大一倍 |
-|8| Cotton Music/棉花音乐 | 本地、百度网盘、阿里云盘、WebDAV、GoogleDrive、OneDrive、Dropbox，Plex、Emby、Jelly、Subsonic |安卓、Windows、Mac、Linux |内购|| 扫码同步音源 |只支持音频文件，不支持MIDI，百度不支持短信验证登录，|
+|7| 小幸运 | alist、115、天翼、阿里、123 | Windows，安卓 | 免费 |  |扫码登录| 安卓比PC版大一倍 |
+|8| Cotton Music/棉花音乐 | 本地、百度、阿里、WebDAV、GoogleDrive、OneDrive、Dropbox，Plex、Emby、Jelly、Subsonic |安卓、Windows、Mac、Linux |内购|| 扫码同步音源 |只支持音频文件，不支持MIDI，百度不支持短信验证登录，|
 |9| HamHub | Emby，Jellyfin，Plex，阿里，百度，SMB，WebDAV |iOS，安卓，macOS，AppleTV | | || 安装包较大|
 |10| Infuse | NAS、Plex、Emby、Jellyfin，Dropbox、Google Drive、OneDrive、Box、阿里 | iOS/AppleTV/Mac(可能有安卓 | | | |有同名软件但不一样 |
 |11| Everplay | 阿里、微云，百度，115，123，OneDrive，SMB, WebDAV | iOS/AppleTV/Mac | 内购 | |WIFI传输 |安装包较大，只支持音频文件|
@@ -21,7 +21,7 @@ https://xiaoyi.vc/comparing-6-top-cloud-media-players.html
 1. https://github.com/x0b/rcx​ Rclone，多平台，貌似不支持百度，FTP、SFTP、WebDAV、HTTP❌
 2. https://github.com/OpenListApp/OpenListApp 多平台，继承alist，文件管理，
 3. https://github.com/OpenListTeam/OpenList-Mobile 
-4. https://github.com/pure-music/PureMusic Cotton Music/棉花音乐，多平台，支持本地歌曲、百度网盘、阿里云盘、WebDAV、GoogleDrive、OneDrive、Dropbox等网盘歌曲播放，支持Plex、Emby、Jelly、Subsonic媒体服务器，部分功能要钱？
+4. https://github.com/pure-music/PureMusic Cotton Music/棉花音乐，多平台，支持本地歌曲、百度、阿里、WebDAV、GoogleDrive、OneDrive、Dropbox等网盘歌曲播放，支持Plex、Emby、Jelly、Subsonic媒体服务器，部分功能要钱？
 5. https://github.com/LeoHaoVIP/AListLiteAndroid 
 6. https://github.com/yk133/CloudreveApp 安卓(有PC端，功能少，貌似不支持百度云，只支持阿里，有服务端❌
 7. https://github.com/VirtualHotBar/NetMount https://www.netmount.cn 桌面端，支持大部分主流网盘，FTP、SFTP、WebDAV、HTTP，

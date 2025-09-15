@@ -3,6 +3,10 @@ https://www.36kr.com/p/2210450649265543 参考/都是桌面端的
 6款网盘播放器横评：爆米花 / VidHub / Ghosten / AfuseKt / 当贝 / Medianex 
 ![六款网盘播放器横评：爆米花  Vid.png](https://lain.bgm.tv/pic/photo/l/94/1e/512889_3czX3.jpg)
 https://xiaoyi.vc/comparing-6-top-cloud-media-players.html
+
+19个
+![Screenshot_20250915_214415.jpg](https://github.com/user-attachments/assets/e9221240-1daf-44c1-9d38-5204934c5844)
+
 |序号| 软件 | 支持网盘/协议                                                                 | 平台  | 收费情况 | 海报墙 | 特色功能                                                                                     | 缺点 |
 |-----------------|-----------------|-----------------|--------------------------------|----------|--------------------|------|----|
 |1| 网易爆米花Filmly      | webdav、SMB、阿里、百度、115、天翼、移动、联通、123、Emby                                | Windows、AppleTV、iOS、安卓/TV | 免费  | 支持  | 全新苹果生态自研内核、HDR全格式支持，支持 ISO 原盘、音频直通模式、appleTV显示器帧率自适配     | 不支持本地字幕，要注册❗百度限制只能播放480p❗ |

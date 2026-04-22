@@ -1,5 +1,9 @@
 ![img](https://hitscounter.dev/api/hit?url=https://github.com/oldsento/Multiple-cloud-storage-management-or-mediaplayer-software-collection&label=&icon=eye&color=%2380cbc4&message=&style=flat&tz=UTC)
 
+视频类播放器https://meta.appinn.net/t/topic/74939/
+
+音频类https://meta.appinn.net/t/topic/75082/
+
 https://www.36kr.com/p/2210450649265543 参考/都是桌面端的
 
 6款网盘播放器横评：爆米花 / VidHub / Ghosten / AfuseKt / 当贝 / Medianex 

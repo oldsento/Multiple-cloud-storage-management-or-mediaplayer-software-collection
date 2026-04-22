@@ -1,8 +1,12 @@
 ![img](https://hitscounter.dev/api/hit?url=https://github.com/oldsento/Multiple-cloud-storage-management-or-mediaplayer-software-collection&label=&icon=eye&color=%2380cbc4&message=&style=flat&tz=UTC)
 
-视频类播放器https://meta.appinn.net/t/topic/74939/
+视频类播放器同步讨论帖https://meta.appinn.net/t/topic/74939 markdown表格
+https://chii.in/group/topic/435473
+https://chii.in/group/topic/457443
 
-音频类https://meta.appinn.net/t/topic/75082/
+音频类播放器同步讨论帖https://meta.appinn.net/t/topic/75082 markdown表格
+https://chii.in/group/topic/436401
+
 
 https://www.36kr.com/p/2210450649265543 参考/都是桌面端的
 
